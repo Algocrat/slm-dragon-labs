@@ -1,6 +1,8 @@
 # Dragon Trainer Lab Series
 How to Customize a Small Language Model (SLM) for Your Domain
 
+![How to Train](assets/how-to-train.png)
+
 This repository contains a 7-part lab series that walks you through fine-tuning a Small Language Model (SLM) with LoRA + Unsloth on the ncbi/Open-Patients dataset.  
 The theme follows our blog series **"How to Train Your Dragon"**, where each lab builds on the last — from environment setup to packaging your trained model for release.
 
