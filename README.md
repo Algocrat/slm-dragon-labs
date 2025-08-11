@@ -91,12 +91,6 @@ Disclaimer: Models trained on this dataset are for research and educational purp
 
 3. Follow Labs 3–7 in sequence to prepare data, fine-tune, evaluate, and package your model.
 
-## Blog Series Reference
-
-This repo complements the blog series:  
-- Lab 1 Blog Post – Colab Environment Setup  
-- Labs 2–7 posts will be published weekly
-
 ## Disclaimer
 
 This project is for educational purposes only.  
