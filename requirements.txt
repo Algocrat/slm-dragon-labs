@@ -1,0 +1,35 @@
+# ===========================
+# Local Lab Environment Setup
+# ===========================
+
+# ---- Core LLM & Fine-Tuning ----
+unsloth
+unsloth_zoo
+accelerate
+transformers
+peft
+datasets
+bitsandbytes
+sentencepiece
+trl
+
+# ---- Utilities ----
+notebook
+ipywidgets
+evaluate
+pandas
+numpy
+scikit-learn
+
+# ---- Local Machine Software (manual install) ----
+# These are not pip-installable but must be installed on your system:
+# 1. Miniconda or Anaconda (https://docs.conda.io/en/latest/miniconda.html)
+# 2. NVIDIA GPU drivers (https://www.nvidia.com/download/index.aspx)
+# 3. (Optional) CUDA Toolkit - if compiling GPU libs locally
+# 4. Jupyter Notebook or VS Code with Jupyter extension
+# 5. Python 3.10 environment
+
+# ---- Recommended Hardware ----
+# GPU: 8GB VRAM minimum (RTX 3060+ or better)
+# RAM: 16GB+ system memory
+# Disk: ~20GB free space
